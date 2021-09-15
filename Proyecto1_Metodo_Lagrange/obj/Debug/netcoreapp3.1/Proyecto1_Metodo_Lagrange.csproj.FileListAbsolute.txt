@@ -1,0 +1,14 @@
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\bin\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.exe
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\bin\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.deps.json
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\bin\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.runtimeconfig.json
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\bin\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.runtimeconfig.dev.json
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\bin\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.dll
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\bin\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.pdb
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\obj\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.csproj.AssemblyReference.cache
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\obj\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.GeneratedMSBuildEditorConfig.editorconfig
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\obj\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.AssemblyInfoInputs.cache
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\obj\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.AssemblyInfo.cs
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\obj\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.csproj.CoreCompileInputs.cache
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\obj\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.dll
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\obj\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.pdb
+D:\General\5 SEMESTRE\ANALISIS NUMERICO\Proyecto1_Metodo_Lagrange\Proyecto1_Metodo_Lagrange\obj\Debug\netcoreapp3.1\Proyecto1_Metodo_Lagrange.genruntimeconfig.cache

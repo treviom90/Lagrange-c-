@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Proyecto1_Metodo_Lagrange/1.0.0": {
+        "runtime": {
+          "Proyecto1_Metodo_Lagrange.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto1_Metodo_Lagrange/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
